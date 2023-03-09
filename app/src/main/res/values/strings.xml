@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">rewardApp</string>
+    <string name="timer">Timer</string>
+    <string name="reward_list">Reward_list</string>
+    <string name="add_new_reward">add_new_reward</string>
+    <string name="reward_screen">Reward_Screeen</string>
+    <string name="dropdown">dropdown</string>
+    <string name="EditReward">EditReward</string>
+    <string name="reward_Name">reward name</string>
+    <string name="cancel">cancel</string>
+    <string name="fiele_cant_be_blank">field_cant_be_blank</string>
+</resources>
